@@ -16,3 +16,5 @@
 <div>
   <a href="https://instagram.com/alexaraujosa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/id/bloodygii" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+
+  ![Snake Animation](https://github.com/alexaraujosa/alexaraujosa/blob/output/github-contribution-grid-snake.svg)
