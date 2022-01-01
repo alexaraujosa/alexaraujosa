@@ -1,16 +1,18 @@
-### Hi there 👋
+#### Epah...
+# 👋 Olá! Sê bem-vindo(a) ao meu perfil!
+## Prazer, sou o Alex.
 
-<!--
-**alexaraujosa/alexaraujosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓  Atualmente estou a acabar o 12º Ano;
+- 🛰  Ando a conhecer o ramo da Informática.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/alexaraujosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexaraujosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexaraujosa&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+  
+##
+  
+<div>
+  <a href="https://instagram.com/alexaraujosa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://steamcommunity.com/id/bloodygii" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
