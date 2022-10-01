@@ -1,9 +1,8 @@
 #### Epah...
 # 👋 Olá! Sê bem-vindo(a) ao meu perfil!
-## Prazer, sou o Alex.
+## Hey, sou o Alex.
 
-- 👨‍🎓  Atualmente estou a acabar o 12º Ano;
-- 🛰  Ando a conhecer o ramo da Informática.
+- 👨‍🎓  Estudante em Engenharia Informática.
 
 <div>
 <a href="https://github.com/alexaraujosa">
