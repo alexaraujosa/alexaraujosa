@@ -1,8 +1,8 @@
-#### Epah...
+#### ...
 # 👋 Olá! Sê bem-vindo(a) ao meu perfil!
 ## Hey, sou o Alex.
 
-- 👨‍🎓  Estudante em Engenharia Informática.
+- 👨‍🎓  Estudante em Engenharia Informática - Universidade do Minho
 
 <div>
 <a href="https://github.com/alexaraujosa">
